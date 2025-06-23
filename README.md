@@ -42,7 +42,6 @@ All tables follow normalization principles and are connected using primary and f
 - `library_schema.sql` – SQL script containing all `CREATE TABLE` statements
 - `ER_Diagram.png` – Visual representation of the database schema
 - `README.md` – Documentation of the task and design overview
-- 
 
 📬 Submission
 
